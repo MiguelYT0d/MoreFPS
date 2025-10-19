@@ -1,12 +1,12 @@
-# HorrorCraft - Bug Reports
-Website link:https://modrinth.com/mod/horrorcraftf
-Welcome to the official bug report page for HorrorCraft!
+# MoreFPS - Bug Reports
+Website link:https://modrinth.com/mod/MoreFPS+
+Welcome to the official bug report page for MoreFPS!
 
-This repository was created so the community can help us identify and track issues found in the mod. Your collaboration is essential to making the HorrorCraft experience the best it can be.
+This repository was created so the community can help us identify and track issues found in the mod. Your collaboration is essential to making the MoreFPS experience the best it can be.
 
 ## How to Report a Bug
 
-If you've encountered an error, crash, unexpected behavior, or any other problem with HorrorCraft, please follow these steps:
+If you've encountered an error, crash, unexpected behavior, or any other problem with MoreFPS, please follow these steps:
 
 1. Go to the **Issues** tab of this repository.
 2. Click the **"New Issue"** button.
@@ -26,4 +26,4 @@ If you've encountered an error, crash, unexpected behavior, or any other problem
 * We may add comments or ask questions to gather more information.
 * Confirmed bugs will be flagged, and we will work to fix them.
 
-I appreciate your help in making HorrorCraft better!
+I appreciate your help in making MoreFPS better!
